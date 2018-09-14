@@ -11,6 +11,11 @@ This code provides a framework for the network visualization of functional conne
 
 
 ### Outputs
-The functional connecitivity matrix is visualized as a network in the browser.
+The functional connecitivity matrix is visualized as a network in the browser. See the Figure below for an example:
+
+<center>
+<img src="/images/cpm.svg"/>
+</center>
+
 ### License
 Copyright &copy; 2018, Mehraveh Salehi. This code is released under the terms of the GNU GPL v2. 
