@@ -11,10 +11,10 @@ This code provides a framework for the network visualization of functional conne
 
 
 ### Outputs
-The functional connecitivity matrix is visualized as a network in the browser. See the Figure below for an example:
+The functional connecitivity matrix is visualized as a network in the browser:
 
 <center>
-<img src="/images/network.png"/>
+<img src="/images/network.png" width="350" />
 </center>
 
 ### License
